@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Efosa Ero</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efoxa&label=Profile%20views&color=0e75b6&style=flat" alt="efoxa" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Creativestart.io](https://github.com/Creative-Start/Starters-company-site)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **PHP**
 
-- 💬 Ask me about **css. js.**
+- 💬 Ask me about **css. js. Next.js**
 
 - 📫 How to reach me **eroefosa9@gmail.com**
 
